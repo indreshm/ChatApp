@@ -1,5 +1,5 @@
 # Messenger
-MERN Stack Project- </br>
+Full Stack MERN Project </br>
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat-square)](https://www.mongodb.com/)
 [![Express.js](https://img.shields.io/badge/Express.js-orange?style=flat-square)](https://expressjs.com/)
